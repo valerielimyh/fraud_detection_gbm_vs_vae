@@ -33,8 +33,3 @@ $ conda create -n boost_conda python=3.8
 $ conda activate boost_conda
 $ jupyter lab
 ```
-## To run the notebook
-(The large data file results in the zipped file becoming bigger than the allowable limit to be sent as an email attachment)
-Download the raw data from : 
-- https://drive.google.com/file/d/1PVYKaRnQsAe8was1bfjJF1YzNZ_FagvK/view?usp=sharing and place it in `data/raw` folder
-
