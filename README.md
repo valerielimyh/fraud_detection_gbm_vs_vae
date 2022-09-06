@@ -1,4 +1,4 @@
-# OCBC AI Lab Fraud Detection
+# Fraud Detection
 
 ## Results
 | Model | Precision | Recall | F1  |
